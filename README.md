@@ -1,2 +1,5 @@
 # MaquetaWeb
-MaquetaWeb Criptomoneda Ejemplo
+Web Design for CriptoCoins Web
+#
+# ONly view in cellphone
+#Responsive view
