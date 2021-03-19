@@ -1,5 +1,5 @@
 # MaquetaWeb
 Web Design for CriptoCoins Web
 #
-# ONly view in cellphone
-#Responsive view
+# Only view in cellphone
+Responsive view
